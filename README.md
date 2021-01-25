@@ -8,9 +8,9 @@
 
 <table>
     <thead>
-        <th width="5%">No.</th>
+        <th width="10%">No.</th>
         <th width="50%">Title.</th>
-        <th width="30%">Date.</th>
+        <th width="25%">Date.</th>
         <th width="15%">State.</th>
     </thead>
     <tbody>
@@ -22,11 +22,30 @@
         </tr>
         <tr>
 			<th>02.</th>
-            <th>Pandas 기본기 다지기</th>
-            <th>2021.01.19 ~ </th>
+            <th><a href="https://github.com/HandeulLy/TAcademy/tree/master/02_Pandas%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8B%A4%EC%A7%80%EA%B8%B0">Pandas 기본기 다지기</a></th>
+            <th>2021.01.19 ~ 2021.01.22</th>
+			<th>수강완료</th>
+        </tr>
+        <tr>
+			<th>03-01.</th>
+            <th>캐글x데이터분석, 캐글(Kaggle) 대회 & EDA</th>
+            <th>2021.01.25 ~ </th>
 			<th>수강중</th>
+        </tr>
+        <tr>
+			<th>03-02.</th>
+            <th>캐글x데이터분석, 피처 엔지니어링</th>
+            <th></th>
+			<th>수강 예정</th>
+        </tr>
+        <tr>
+			<th>03-03.</th>
+            <th>캐글x데이터분석, 모델과 검증 & 앙상블</th>
+            <th></th>
+			<th>수강 예정</th>
         </tr>
     </tbody>
 </table>
+
 
 
