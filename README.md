@@ -24,19 +24,19 @@
 			<th>02.</th>
             <th><a href="https://github.com/HandeulLy/TAcademy/tree/master/02_Pandas%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8B%A4%EC%A7%80%EA%B8%B0">Pandas 기본기 다지기</a></th>
             <th>2021.01.19 ~ 2021.01.22</th>
-			<th>수강완료</th>
+			<th>이수 완료</th>
         </tr>
         <tr>
 			<th>03-01.</th>
             <th>캐글x데이터분석, 캐글(Kaggle) 대회 & EDA</th>
-            <th>2021.01.25 ~ </th>
-			<th>수강중</th>
+            <th>2021.01.25 ~ 2021.01.26.</th>
+			<th>이수 완료</th>
         </tr>
         <tr>
 			<th>03-02.</th>
             <th>캐글x데이터분석, 피처 엔지니어링</th>
-            <th></th>
-			<th>수강 예정</th>
+            <th>2021.01.27 ~ </th>
+			<th>수강중</th>
         </tr>
         <tr>
 			<th>03-03.</th>
@@ -46,6 +46,7 @@
         </tr>
     </tbody>
 </table>
+
 
 
 
