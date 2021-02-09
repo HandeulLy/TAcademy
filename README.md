@@ -21,26 +21,32 @@
             <th>이수 완료</th>
         </tr>
         <tr>
-			<th><a href="https://github.com/HandeulLy/TAcademy/tree/master/02_Pandas%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8B%A4%EC%A7%80%EA%B8%B0">02.</a></th>
-            <th>Pandas 기본기 다지기/th>
+            <th><a href="https://github.com/HandeulLy/TAcademy/tree/master/02_Pandas%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8B%A4%EC%A7%80%EA%B8%B0">02.</a></th>
+            <th>Pandas 기본기 다지기</th>
             <th>2021.01.19 ~ 2021.01.22</th>
-			<th>이수 완료</th>
-        </tr>
+            <th>이수 완료</th>
+        </tr>    
         <tr>
-			<th rowspan="3"><a href="https://github.com/HandeulLy/TAcademy/tree/master/03_Kaggle_DataScience">03-01.</a></th>
+            <th rowspan="3"><a href="https://github.com/HandeulLy/TAcademy/tree/master/03_Kaggle_DataScience">03-01.</a></th>
             <th>캐글x데이터분석, 캐글(Kaggle) 대회 & EDA</th>
             <th>2021.01.25 ~ 2021.01.26.</th>
-			<th>이수 완료</th>
+            <th>이수 완료</th>
         </tr>
         <tr>
             <th>캐글x데이터분석, 피처 엔지니어링</th>
             <th>2021.01.27 ~ 2021.01.29.</th>
-			<th>이수 완료</th>
+            <th>이수 완료</th>
         </tr>
         <tr>
             <th>캐글x데이터분석, 모델과 검증 & 앙상블</th>
-            <th>2021.02.04 ~</th>
-			<th>수강중</th>
+            <th>2021.02.04 ~ 2021.02.09.</th>
+            <th>이수 완료</th>
+        </tr>    
+        <tr>
+            <th>04.</th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
     </tbody>
 </table>
