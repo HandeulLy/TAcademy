@@ -27,7 +27,7 @@
             <th>이수 완료</th>
         </tr>    
         <tr>
-            <th rowspan="3"><a href="https://github.com/HandeulLy/TAcademy/tree/master/03_Kaggle_DataScience">03-01.</a></th>
+            <th rowspan="3"><a href="https://github.com/HandeulLy/TAcademy/tree/master/03_Kaggle_DataScience">03.</a></th>
             <th>캐글x데이터분석, 캐글(Kaggle) 대회 & EDA</th>
             <th>2021.01.25 ~ 2021.01.26.</th>
             <th>이수 완료</th>
